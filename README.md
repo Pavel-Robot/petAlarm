@@ -1,3 +1,3 @@
 # petAlarm
 Pet project for tasks and weather Krasnoyarsk. See NoteMy.zip for exe-file.
-![Screenshot](https://github.com/Pavel-Robot/petAlarm/assets/50141984/31b9aebd-2bf6-455d-a82e-9df0f2b065c5)
+![Screenshot](https://github.com/Pavel-Robot/petAlarm/assets/50141984/0f9ee32c-05b9-4063-9058-3e90bbb7cfbf)
